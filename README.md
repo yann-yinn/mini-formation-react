@@ -237,7 +237,7 @@ export default class HelloWorld extends React.Component {
 }
  ```
 
-> :warning: Un composant devient plus difficile à gérer si il mélance mise à jour depuis les **props** et mise à jour internet à partir du **state** . Si cela arrive, vérifier si state interne ne peut pa tout simplement être passé en props depuis le parent pour avoir **une seule source de vérité** du rafraichissement du composant.
+> :warning: Un composant devient plus difficile à gérer si il mélange mise à jour depuis les **props** et mise à jour internet à partir du **state** . Si cela arrive, vérifier si state interne ne peut pa tout simplement être passé en props depuis le parent pour avoir **une seule source de vérité** du rafraichissement du composant.
 
 
 
