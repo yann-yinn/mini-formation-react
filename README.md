@@ -159,7 +159,7 @@ export default function UserList({ users }) {
 }
 ```
 
-## Passer des évènement au composant parent
+## Passer des évènements au composant parent
 
 Javascript' powa aussi : il suffit que l'enfant appel une fonction qui sera passé en props. Le composant suivant appelle la méthode `onButtonClick` du parent avec la valeur "yes" or "no".
 
