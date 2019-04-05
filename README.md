@@ -241,7 +241,7 @@ export default class HelloWorld extends React.Component {
 
 ## Formulaire basique
 
-Pour des formulaires plus avancés, je recommande [react-final-form](https://github.com/final-form/react-final-form) qui est très complète et facilement customisable.
+Pour des formulaires plus avancés, je recommande [react-final-form](https://github.com/final-form/react-final-form) qui est très complèt et facilement customisable.
 
 Ci-dessous un exemple basique de formulaire en "pur" React
 
