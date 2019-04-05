@@ -239,9 +239,11 @@ export default class HelloWorld extends React.Component {
 
 
 
-## Formulaire "controlé" basique
+## Formulaire basique
 
-On appelle formulaire contrôlé un formulaire dont on gére manuellement le state en reflétant la valeur des champs dans la variable state.
+Pour des formulaires plus avancés, je recommande [react-final-form](https://github.com/final-form/react-final-form) qui est très complète et facilement customisable.
+
+Ci-dessous un exemple basique de formulaire en "pur" React
 
 ```jsx
 import React from "react"
