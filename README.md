@@ -4,7 +4,7 @@
 
 ## Installation
 
-[create-react-app](https://github.com/facebook/create-react-app) permet de créer une nouvelle applicationReact pré-configurée avec wepack, gestion des fichiers d'environnement, hot-reloading :rocket: 
+[create-react-app](https://github.com/facebook/create-react-app) permet de créer une nouvelle application React pré-configurée avec wepack, gestion des fichiers d'environnement, hot-reloading :rocket: 
 
 `yarn install`puis `yarn start` pour commencer à travailler.
 
