@@ -161,7 +161,9 @@ export default function UserList({ users }) {
 
 ## Passer des évènements au composant parent
 
-Javascript' powa aussi : il suffit que l'enfant appel une fonction qui sera passé en props. Le composant suivant appelle la méthode `onButtonClick` du parent avec la valeur "yes" or "no".
+Javascript' powa aussi : il suffit que l'enfant appel une fonction qui sera passé en props. 
+
+Par exemple le composant suivant appelle la méthode `onButtonClick` du parent avec la valeur "yes" or "no" quand on clique sur "yes" ou "no".
 
 ```jsx
 import React from "react"
