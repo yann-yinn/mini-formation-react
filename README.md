@@ -18,7 +18,7 @@ Installer l'extension chrome [react-dev-tools](https://chrome.google.com/webstor
 
  `JSX` est une syntaxe raccourcie pour appeler la fonction `React.createElement()` . JSX ressemble à du html et n'est **pas** du html mais  du **Javascript**; et doit être pensé et manipulé comme tel.  
 
-La fonction `createElement()` ne renvoie pas du html mais un **objet** qui répresente le DOM à créer plus tard, car React utilise un **DOM Virtuel** .
+La fonction `createElement()` ne crée pas du html mais retourne un **objet** qui répresente le DOM à créer plus tard, car React utilise un **DOM Virtuel** .
 
 ## Composant
 
