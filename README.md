@@ -40,7 +40,7 @@ export default function HelloWorld() {
 >
 > :warning: Un composant est toujours nommé en **P**ascal**C**ase
 
-`Helloworld` peut ensuite être appelé en `jsx` comme comme une
+`Helloworld` peut ensuite être appelé en `jsx` comme comme suit:
 
 ```jsx
 import React, { Component } from 'react';
